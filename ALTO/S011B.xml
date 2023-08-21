@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>S011B.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT6" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1057"
+          HEIGHT="1531"
+          PHYSICAL_IMG_NR="94"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1057"
+                  HEIGHT="1531">
+        
+        <TextBlock HPOS="309"
+                   VPOS="37"
+                   WIDTH="407"
+                   HEIGHT="132"
+                   ID="eSc_textblock_ebeb26cd"
+                   TAGREFS="BT6">
+          <Shape><Polygon POINTS="365 37 709 61 716 138 542 169 330 152 313 121 309 54 365 37"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2dfb9179"
+                    TAGREFS="LT6"
+                    BASELINE="333 82 588 89" 
+                    HPOS="332"
+                    VPOS="39"
+                    WIDTH="256"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="580 51 571 51 563 51 554 50 546 49 537 49 529 48 525 47 502 47 500 45 495 45 486 45 478 45 474 44 472 45 468 45 465 45 462 43 461 43 452 43 444 42 435 41 427 41 419 40 413 39 350 39 350 40 342 43 333 45 333 82 332 96 365 91 407 91 412 96 413 96 414 96 415 96 457 94 467 101 468 102 468 102 469 102 492 102 542 103 542 103 543 103 547 102 568 96 585 103 588 89 588 52 580 51"/></Shape>
+	    <String CONTENT="Indictm&#x27;t ags&#x27;t Sarah"
+                    HPOS="332"
+                    VPOS="39"
+                    WIDTH="256"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caf7aa2f"
+                    TAGREFS="LT6"
+                    BASELINE="613 92 673 94" 
+                    HPOS="612"
+                    VPOS="54"
+                    WIDTH="61"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="665 57 657 56 648 56 639 56 631 55 622 55 614 54 613 92 612 102 613 102 614 102 614 103 615 103 616 103 617 103 617 103 630 100 634 99 671 104 673 94 673 57 665 57"/></Shape>
+	    <String CONTENT="Cloyse"
+                    HPOS="612"
+                    VPOS="54"
+                    WIDTH="61"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba4fa102"
+                    TAGREFS="LT6"
+                    BASELINE="335 116 410 116 704 130" 
+                    HPOS="335"
+                    VPOS="87"
+                    WIDTH="369"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="569 89 568 89 545 94 544 94 543 94 543 95 534 102 532 104 503 103 500 101 491 95 491 95 490 95 489 95 488 95 487 95 479 100 457 88 456 88 455 88 454 88 453 88 444 96 431 94 430 94 429 94 428 94 424 96 420 99 411 96 394 91 393 91 392 91 391 91 390 91 384 95 380 97 365 97 361 93 355 88 355 87 354 87 354 87 353 87 352 87 335 91 335 116 335 142 352 129 361 129 371 137 372 137 373 137 374 137 409 130 428 141 429 141 430 141 431 141 432 141 442 133 456 144 478 162 479 162 479 162 508 163 509 163 510 163 511 163 516 159 525 165 525 165 526 165 585 167 586 167 587 167 588 167 616 147 625 141 645 145 646 145 679 142 682 147 683 147 683 147 684 147 685 147 702 148 704 130 704 111 681 92 680 92 679 92 667 91 625 90 624 90 623 90 622 90 605 104 570 89 569 89"/></Shape>
+	    <String CONTENT="for bewitching Mary Walcott"
+                    HPOS="335"
+                    VPOS="87"
+                    WIDTH="369"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="357"
+                   VPOS="265"
+                   WIDTH="342"
+                   HEIGHT="176"
+                   ID="eSc_textblock_ff165234"
+                   TAGREFS="BT6">
+          <Shape><Polygon POINTS="430 265 523 278 550 313 682 330 699 376 659 397 655 427 631 441 432 441 397 390 357 376 364 323 430 265"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_acbb48bc"
+                    TAGREFS="LT6"
+                    BASELINE="406 299 526 301" 
+                    HPOS="405"
+                    VPOS="275"
+                    WIDTH="121"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="406 284 406 299 405 325 431 326 432 326 433 326 434 326 434 325 437 322 446 313 460 318 461 318 462 318 525 312 526 301 525 283 499 278 498 278 479 281 474 282 469 281 452 276 451 276 451 276 450 276 440 280 438 281 437 280 431 275 430 275 429 275 428 275 413 278 406 284"/></Shape>
+	    <String CONTENT="Ignoramus"
+                    HPOS="405"
+                    VPOS="275"
+                    WIDTH="121"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee8f0f34"
+                    TAGREFS="LT6"
+                    BASELINE="398 357 526 357" 
+                    HPOS="398"
+                    VPOS="323"
+                    WIDTH="128"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="398 357 398 381 435 381 435 380 452 376 474 371 501 371 503 372 509 377 510 377 511 377 512 377 513 377 526 370 526 357 526 338 511 338 496 326 495 326 494 326 493 326 492 326 491 326 482 332 465 323 464 323 444 323 443 323 442 323 398 337 398 357"/></Shape>
+	    <String CONTENT="Robert"
+                    HPOS="398"
+                    VPOS="323"
+                    WIDTH="128"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66311dd3"
+                    TAGREFS="LT6"
+                    BASELINE="570 352 629 356 676 364" 
+                    HPOS="565"
+                    VPOS="321"
+                    WIDTH="113"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="570 352 565 389 613 391 614 391 615 391 627 385 640 378 673 381 676 364 678 337 662 330 661 330 660 330 645 333 626 336 600 335 572 321 570 352"/></Shape>
+	    <String CONTENT="Payne"
+                    HPOS="565"
+                    VPOS="321"
+                    WIDTH="113"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c302f065"
+                    TAGREFS="LT6"
+                    BASELINE="451 413 531 416 622 426" 
+                    HPOS="449"
+                    VPOS="381"
+                    WIDTH="173"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="451 413 449 444 469 445 470 445 471 445 487 438 503 448 508 450 508 450 509 450 538 452 539 452 540 452 547 449 565 443 588 452 594 454 595 454 596 454 619 453 622 426 622 406 572 403 571 401 547 386 546 386 545 386 544 386 543 386 521 392 497 382 497 382 474 381 473 381 472 381 452 389 451 413"/></Shape>
+	    <String CONTENT="foreman"
+                    HPOS="449"
+                    VPOS="381"
+                    WIDTH="173"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="500"
+                   VPOS="1360"
+                   WIDTH="16"
+                   HEIGHT="17"
+                   ID="eSc_textblock_8bdd913d"
+                   TAGREFS="BT6">
+          <Shape><Polygon POINTS="508 1360 516 1373 500 1377 500 1367 508 1360"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
